@@ -59,7 +59,7 @@ const Sidebar = () => {
 
                 <SignedOut>
                     <Button asChild className='bg-purple-gradient button bg-cover'>
-                        <Link href="https://assured-tadpole-51.accounts.dev/sign-in">Login</Link>
+                        <Link href="/sign-in">Login</Link>
                     </Button>
                 </SignedOut>
 
